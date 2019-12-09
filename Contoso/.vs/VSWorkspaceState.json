@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contoso.Models",
+    "\\Contoso.MVC",
+    "\\Contoso.MVC\\App_Start",
+    "\\Contoso.MVC\\Controllers",
+    "\\Contoso.MVC\\ViewModels",
+    "\\Contoso.MVC\\Views",
+    "\\Contoso.MVC\\Views\\Department"
+  ],
+  "SelectedNode": "\\Contoso.MVC\\App_Start\\BundleConfig.cs",
+  "PreviewInSolutionExplorer": false
+}

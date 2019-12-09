@@ -1,0 +1,5 @@
+C:\Users\liuting\source\repos\MVC\Contoso\Contoso.Utilities\bin\Debug\Contoso.Utilities.dll
+C:\Users\liuting\source\repos\MVC\Contoso\Contoso.Utilities\bin\Debug\Contoso.Utilities.pdb
+C:\Users\liuting\source\repos\MVC\Contoso\Contoso.Utilities\obj\Debug\Contoso.Utilities.csprojAssemblyReference.cache
+C:\Users\liuting\source\repos\MVC\Contoso\Contoso.Utilities\obj\Debug\Contoso.Utilities.dll
+C:\Users\liuting\source\repos\MVC\Contoso\Contoso.Utilities\obj\Debug\Contoso.Utilities.pdb
